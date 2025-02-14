@@ -4,13 +4,14 @@
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP4? Können Sie mit diesem Projekt zeigen, wie Sie sich selbständig in eine Problemstellung einarbeiten können und eine überzeugende Lösung programmieren können?
+1. Meine Noten in Informatik sind sehr gut, ich finde, dass ich bei der Netzwerkplannung zur Zeit sehr gut voran komme.
+2. Das Ziel von dieser LP4 AvaloniaUI benutzen zu können. Da ich leider nicht mit Winforms arbeiten kann. Ich finde dies gut und freue mich, mir selbst etwas neues beibringen zukönnen. Ich möchte dann, ein kleinen Memory Game erstellen.
+
 
 ## 14.2: Explorativer Wegwerf-Prototyp
 
-- [ ] ...
-- [ ] ...
+- [ ] AvaloniaUI herunterladen
+- [ ] AvaloniaUI kennenlernen(Videos anschauen) 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
