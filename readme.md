@@ -20,7 +20,8 @@
 ## 21.2: Explorativer Wegwerf-Prototyp
 
 - [ ] Mindmap machen wie ich mein Memory machen kann
-- [ ] AvaloniaUI ausprobieren
+- [ ] Ein minimales Programm, wo ich AvaloniaUI benutze, um ein Fenster mit einem Button anzuzeigen. Wenn der Benutzer auf den Button klickt, soll ein Fenster aufgehen, in 
+      welchem "hello tomato" steht. Dies will ich machen, um sicherzustellen, dass ich die absoluten Grundzüge von AvaloniaUI verstanden habe.
 - [ ] Design von Memory Karten(Figuren oder Emogjs)
 - [ ] Randomizer programmieren damit sie nicht immer gleich kommen.
 
