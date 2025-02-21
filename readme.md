@@ -15,15 +15,14 @@
 
 ✍️ Heute habe ich zuerst die installation von AvaloniaUi gemacht, danach habe ich mehrere Videos angeschaut. Z.B. was AvaloniaUI genau ist, was es macht und andere Entwickler die mit AvaloniaUI arbeiten. Was ich herausgefunden habe ist, dass AvaloniaUI sehr gut ist um etwas neues zu lernen auch wenn es am Anfang sehr schwer sein kann.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 21.2: Explorativer Wegwerf-Prototyp
 
 - [ ] Mindmap machen wie ich mein Memory machen kann
-- [ ] Ein minimales Programm, wo ich AvaloniaUI benutze, um ein Fenster mit einem Button anzuzeigen. Wenn der Benutzer auf den Button klickt, soll ein Fenster aufgehen, in 
+- [ ] Ein minimales Programm, wo ich AvaloniaUI benutze, um ein Fenster mit einem Button anzuzeigen. Wenn der Benutzer auf den Button klickt, soll ein Fenster aufgehen, in
       welchem "hello tomato" steht. Dies will ich machen, um sicherzustellen, dass ich die absoluten Grundzüge von AvaloniaUI verstanden habe.
 - [ ] Design von Memory Karten(Figuren oder Emogjs)
-- [ ] Randomizer programmieren damit sie nicht immer gleich kommen.
+- [ ] SQL Code arbeiten für LB
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
