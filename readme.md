@@ -18,17 +18,23 @@
 
 ## 21.2: Explorativer Wegwerf-Prototyp
 
-- [ ] Mindmap machen wie ich mein Memory machen kann
-- [ ] Ein minimales Programm, wo ich AvaloniaUI benutze, um ein Fenster mit einem Button anzuzeigen. Wenn der Benutzer auf den Button klickt, soll ein Fenster aufgehen, in
+- [x] Mindmap machen wie ich mein Memory machen kann
+- [x] Ein minimales Programm, wo ich AvaloniaUI benutze, um ein Fenster mit einem Button anzuzeigen. Wenn der Benutzer auf den Button klickt, soll ein Fenster aufgehen, in
       welchem "hello tomato" steht. Dies will ich machen, um sicherzustellen, dass ich die absoluten Grundzüge von AvaloniaUI verstanden habe.
 - [ ] Design von Memory Karten(Figuren oder Emogjs)
-- [ ] SQL Code arbeiten für LB
+- [x] SQL Code arbeiten für LB
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich nur 3 Ziele erreicht, ich konnte ein Mindmap erstellen mit allen wichtigen Informationen, die mein Game haben muss. Ich habe auch AvaloniaUI ausprobiert und musste noch zuerst dafür die Version
+von AvaloniaUI ändern. Leider hatte ich keine Zeit mehr für das Design von den Memory Karten, weil ich mit meinem SQL code beschäftigt habe, mit dem ich auch sehr weit gekommen bin.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 28.2: Kern-Funktionalität
+
+- [ ] vierecke designen mit farben, damit ich Karten habe um meinen Code coden zu können
+- [ ] randomizer für die Karten programmieren
+- [ ] coden das, wenn man 2 gleiche Karten aufdeckt, sie aufgedeckt bleiben, bis man den Rest hat
+- [ ] anfang des Spiels programmieren, damit man wählen kann, ob man 1 Player ode 2 Player will 
+
 
 ## 7.3: Kern-Funktionalität
 
