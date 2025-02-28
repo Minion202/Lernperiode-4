@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace MemoryGame;
+namespace Memory_Game;
 
 class Program
 {
