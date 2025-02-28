@@ -30,13 +30,21 @@ von AvaloniaUI ändern. Leider hatte ich keine Zeit mehr für das Design von den
 
 ## 28.2: Kern-Funktionalität
 
-- [ ] vierecke designen mit farben, damit ich Karten habe um meinen Code coden zu können
-- [ ] randomizer für die Karten programmieren
-- [ ] coden das, wenn man 2 gleiche Karten aufdeckt, sie aufgedeckt bleiben, bis man den Rest hat
+- [x] vierecke designen mit farben, damit ich Karten habe um meinen Code coden zu können
+- [x] randomizer für die Karten programmieren
+- [x] coden das, wenn man 2 gleiche Karten aufdeckt, sie aufgedeckt bleiben, bis man den Rest hat
 - [ ] anfang des Spiels programmieren, damit man wählen kann, ob man 1 Player ode 2 Player will 
 
+✍️ Heute habe ich alle Ziele die ich erreichen konnte leider nicht erreicht, aber ich habe karten gemacht die sich aufdecken lassen, wenn ich sie anklicke, ich ben sehr zufrieden mit dem Ergebnis
+und man kann langsam auch sehen, dass es ein Memory spiel wird.
 
 ## 7.3: Kern-Funktionalität
+ 
+- [ ] Die Karten sind nicht sehr lange aufgedeckt, deshalb muss ich das zuerst ändern
+- [ ] Die Karten bleiben auf gedeckt, wenn ich zwei gleiche öffne
+- [ ] Randomizer programmieren der die Karten zählt
+- [ ] Punkte zähler programmieren
+
 
 ## 14.3: Architektur ausbauen
 
