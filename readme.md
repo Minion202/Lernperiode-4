@@ -41,9 +41,17 @@ und man kann langsam auch sehen, dass es ein Memory spiel wird.
 ## 7.3: Kern-Funktionalität
  
 - [x] Die Karten sind nicht sehr lange aufgedeckt, deshalb muss ich das zuerst ändern
-- [ ] Die Karten bleiben auf gedeckt, wenn ich zwei gleiche öffne
-- [ ] Randomizer fertig programmieren der die Karten zählt
-- [ ] Punkte zähler programmieren
+- [x] Die Karten bleiben auf gedeckt, wenn ich zwei gleiche öffne
+- [x] Randomizer fertig programmieren der die Karten zählt
+- [x] Punkte zähler programmieren
+
+✍️ Heute habe ich alle Ziele, die ich erreichen wollte schon erreicht. Die Karten sind länger aufgedeckt, dass man sich merken kann, wo sie liegt. Die Karten bleiben auch aufgedeckt, wenn ich zwei gleiche habe. Der Randomizer ist fertig programmiert und ich habe auch einen Punkte zähler in die oben in der Mitte, der Karten programmiert. Jetzt wäre das Spiel für eigentlich schon fertig, aber ich möchte es noch weiterentwicklen.
+
+- [ ] Wenn alle Karten aufgedeckt werden sollte das Spiel neu gestartet werden
+- [ ] Am Anfang des Spiel kann man wählen, ob man einzel Spieler oder zwei Spieler spielen möchte. Dann wenn man einzel Spieler drückt sollte man auf das einzel Spieler spiel kommen,
+      dass ich schon programmiert habe
+- [ ] Dass das Wähle dein Spielmodus nicht wieder vorkommnt beim Spielfeld, wenn am Anfang schon wählen konnte
+- [ ] Das 2 Spielerfeld so umprogrammieren, dass Punkte von Spieler 1 und 2 angezeigt werden
 
 
 ## 14.3: Architektur ausbauen
