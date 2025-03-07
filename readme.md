@@ -40,9 +40,9 @@ und man kann langsam auch sehen, dass es ein Memory spiel wird.
 
 ## 7.3: Kern-Funktionalität
  
-- [ ] Die Karten sind nicht sehr lange aufgedeckt, deshalb muss ich das zuerst ändern
+- [x] Die Karten sind nicht sehr lange aufgedeckt, deshalb muss ich das zuerst ändern
 - [ ] Die Karten bleiben auf gedeckt, wenn ich zwei gleiche öffne
-- [ ] Randomizer programmieren der die Karten zählt
+- [ ] Randomizer fertig programmieren der die Karten zählt
 - [ ] Punkte zähler programmieren
 
 
