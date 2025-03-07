@@ -48,7 +48,7 @@ und man kann langsam auch sehen, dass es ein Memory spiel wird.
 ✍️ Heute habe ich alle Ziele, die ich erreichen wollte schon erreicht. Die Karten sind länger aufgedeckt, dass man sich merken kann, wo sie liegt. Die Karten bleiben auch aufgedeckt, wenn ich zwei gleiche habe. Der Randomizer ist fertig programmiert und ich habe auch einen Punkte zähler in die oben in der Mitte, der Karten programmiert. Jetzt wäre das Spiel für eigentlich schon fertig, aber ich möchte es noch weiterentwicklen.
 
 - [ ] Wenn alle Karten aufgedeckt werden sollte das Spiel neu gestartet werden
-- [ ] Am Anfang des Spiel kann man wählen, ob man einzel Spieler oder zwei Spieler spielen möchte. Dann wenn man einzel Spieler drückt sollte man auf das einzel Spieler spiel kommen,
+- [x] Am Anfang des Spiel kann man wählen, ob man einzel Spieler oder zwei Spieler spielen möchte. Dann wenn man einzel Spieler drückt sollte man auf das einzel Spieler spiel kommen,
       dass ich schon programmiert habe
 - [ ] Dass das Wähle dein Spielmodus nicht wieder vorkommnt beim Spielfeld, wenn am Anfang schon wählen konnte
 - [ ] Das 2 Spielerfeld so umprogrammieren, dass Punkte von Spieler 1 und 2 angezeigt werden
