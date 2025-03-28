@@ -53,12 +53,17 @@ und man kann langsam auch sehen, dass es ein Memory spiel wird.
 - [x] Dass das Wähle dein Spielmodus nicht wieder vorkommnt beim Spielfeld, wenn am Anfang schon wählen konnte
 - [x] Das 2 Spielerfeld so umprogrammieren, dass Punkte von Spieler 1 und 2 angezeigt werden
 
-
-## 14.3: Architektur ausbauen
-
-## 21.3: Architektur ausbauen
-
 ## 28.3: Auspolieren
 
+- [x]  Schauen warum der Spieler nicht nochmal am Zug ist, wenn sie eine Karte geöffnet hat
+- [x]  Funktionen erstellen, damit es übersichtlicher ist
+- [x]  Polieren, dass mein Spiel besser aussieht,(vielleicht mit Geräuschen dazu noch)
+
+✍️ Heute habe ich zuerest mit meinem Lehrer mein erstes Problem erldig, das der Spieler wieder am Zug, wenn er zwei Karten gleich(buttons)hat,
+danach habe ich ihn noch in Funktionen unterteilt, damit es übersichtlicher ist. Ich habe das Spielfeld so zentriert das es immer in der Mitte bleibt.
+
 ## 4.4: Auspolieren & Abschluss
+
+- [ ]  Auswahl von 1 und 2 Spieler ändern, mit Icons etc.
+- [ ]  Falls es noch etwas gibt zum erledigen
 
