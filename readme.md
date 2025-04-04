@@ -64,6 +64,17 @@ danach habe ich ihn noch in Funktionen unterteilt, damit es übersichtlicher ist
 
 ## 4.4: Auspolieren & Abschluss
 
-- [ ]  Auswahl von 1 und 2 Spieler ändern, mit Icons etc.
-- [ ]  Falls es noch etwas gibt zum erledigen
+- [x]  Auswahl von 1 und 2 Spieler ändern,(mit Icons etc. ausprobieren)
+- [x]  Falls es noch etwas gibt zum erledigen
+
+✍️ Heute habe ich noch versucht, die Icons einzubauen, aber es hat nicht ganz funktioniert. Deshalb habe ich es erst einmal so gelassen wie vorher,
+nur habe ich die Buttons am Anfang nebeneinander statt untereinander angeordnet.
+
+## Refelexion
+
+Bei diesem Projekt habe ich zum ersten Mal mit Avalonia UI gearbeitet. Anfangs war das Ganze noch etwas unpraktisch und ungewohnt, da ich mir nicht vertraut war damit. Doch durch viele Tutorials, Videos und vor allem durch Ausprobieren bin ich gut vorangekommen. Wenn ich zurück schaue, bin ich sehr stolz darauf, was ich geschafft habe,besonders weil ich auf einem Mac arbeite und dadurch einige zusätzliche Herausforderungen hatte.
+
+Im Vergleich zu meinen Mitstudierenden, die alle auf Windows gearbeitet haben, musste ich deutlich mehr arbeiten. Denn während sie teilweise nur fertige Buttons auswählen und einfügen konnten, musste ich mein Spielfeld selbst gestalten. Trotzdem konnte ich mein Ziel erreichen, was mir ein gutes Gefühl gibt und mir gezeigt hat, wie viel ich in kurzer Zeit dazulernen kann. 
+
+Ausserdem hat es mir geholfen ein Mind-Map zuerstellen, da ich dann ein besseres Vorstellen meines Spiels hatte.
 
