@@ -1,5 +1,7 @@
 # Lern-Periode 4
 
+![image](https://github.com/user-attachments/assets/6c59521e-a36a-4161-8816-94861163d9b1)
+
 14.2 bis 4.4
 
 ## Grob-Planung
