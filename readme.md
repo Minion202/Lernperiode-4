@@ -1,6 +1,5 @@
 # Lern-Periode 4
-
-![image](https://github.com/user-attachments/assets/6c59521e-a36a-4161-8816-94861163d9b1)
+![Memory](https://github.com/user-attachments/assets/6f24d48f-5b18-481a-8b43-2201d253c62b)
 
 14.2 bis 4.4
 
