@@ -15,7 +15,7 @@
 - [x] AvaloniaUI herunterladen
 - [x] AvaloniaUI kennenlernen(Videos anschauen) 
 
-✍️ Heute habe ich zuerst die installation von AvaloniaUi gemacht, danach habe ich mehrere Videos angeschaut. Z.B. was AvaloniaUI genau ist, was es macht und andere Entwickler die mit AvaloniaUI arbeiten. Was ich herausgefunden habe ist, dass AvaloniaUI sehr gut ist um etwas neues zu lernen auch wenn es am Anfang sehr schwer sein kann.
+Heute habe ich zuerst die installation von AvaloniaUi gemacht, danach habe ich mehrere Videos angeschaut. Z.B. was AvaloniaUI genau ist, was es macht und andere Entwickler die mit AvaloniaUI arbeiten. Was ich herausgefunden habe ist, dass AvaloniaUI sehr gut ist um etwas neues zu lernen auch wenn es am Anfang sehr schwer sein kann.
 
 
 ## 21.2: Explorativer Wegwerf-Prototyp
@@ -26,7 +26,7 @@
 - [ ] Design von Memory Karten(Figuren oder Emogjs)
 - [x] SQL Code arbeiten für LB
 
-✍️ Heute habe ich nur 3 Ziele erreicht, ich konnte ein Mindmap erstellen mit allen wichtigen Informationen, die mein Game haben muss. Ich habe auch AvaloniaUI ausprobiert und musste noch zuerst dafür die Version
+Heute habe ich nur 3 Ziele erreicht, ich konnte ein Mindmap erstellen mit allen wichtigen Informationen, die mein Game haben muss. Ich habe auch AvaloniaUI ausprobiert und musste noch zuerst dafür die Version
 von AvaloniaUI ändern. Leider hatte ich keine Zeit mehr für das Design von den Memory Karten, weil ich mit meinem SQL code beschäftigt habe, mit dem ich auch sehr weit gekommen bin.
 
 
@@ -37,7 +37,7 @@ von AvaloniaUI ändern. Leider hatte ich keine Zeit mehr für das Design von den
 - [x] coden das, wenn man 2 gleiche Karten aufdeckt, sie aufgedeckt bleiben, bis man den Rest hat
 - [ ] anfang des Spiels programmieren, damit man wählen kann, ob man 1 Player ode 2 Player will 
 
-✍️ Heute habe ich alle Ziele die ich erreichen konnte leider nicht erreicht, aber ich habe karten gemacht die sich aufdecken lassen, wenn ich sie anklicke, ich ben sehr zufrieden mit dem Ergebnis
+Heute habe ich alle Ziele die ich erreichen konnte leider nicht erreicht, aber ich habe karten gemacht die sich aufdecken lassen, wenn ich sie anklicke, ich ben sehr zufrieden mit dem Ergebnis
 und man kann langsam auch sehen, dass es ein Memory spiel wird.
 
 ## 7.3: Kern-Funktionalität
@@ -47,7 +47,7 @@ und man kann langsam auch sehen, dass es ein Memory spiel wird.
 - [x] Randomizer fertig programmieren der die Karten zählt
 - [x] Punkte zähler programmieren
 
-✍️ Heute habe ich alle Ziele, die ich erreichen wollte schon erreicht. Die Karten sind länger aufgedeckt, dass man sich merken kann, wo sie liegt. Die Karten bleiben auch aufgedeckt, wenn ich zwei gleiche habe. Der Randomizer ist fertig programmiert und ich habe auch einen Punkte zähler in die oben in der Mitte, der Karten programmiert. Jetzt wäre das Spiel für eigentlich schon fertig, aber ich möchte es noch weiterentwicklen.
+Heute habe ich alle Ziele, die ich erreichen wollte schon erreicht. Die Karten sind länger aufgedeckt, dass man sich merken kann, wo sie liegt. Die Karten bleiben auch aufgedeckt, wenn ich zwei gleiche habe. Der Randomizer ist fertig programmiert und ich habe auch einen Punkte zähler in die oben in der Mitte, der Karten programmiert. Jetzt wäre das Spiel für eigentlich schon fertig, aber ich möchte es noch weiterentwicklen.
 
 - [x] Wenn alle Karten aufgedeckt werden sollte das Spiel neu gestartet werden
 - [x] Am Anfang des Spiel kann man wählen, ob man einzel Spieler oder zwei Spieler spielen möchte. Dann wenn man einzel Spieler drückt sollte man auf das einzel Spieler spiel kommen,
@@ -61,7 +61,7 @@ und man kann langsam auch sehen, dass es ein Memory spiel wird.
 - [x]  Funktionen erstellen, damit es übersichtlicher ist
 - [x]  Polieren, dass mein Spiel besser aussieht,(vielleicht mit Geräuschen dazu noch)
 
-✍️ Heute habe ich zuerest mit meinem Lehrer mein erstes Problem erldig, das der Spieler wieder am Zug, wenn er zwei Karten gleich(buttons)hat,
+Heute habe ich zuerest mit meinem Lehrer mein erstes Problem erldig, das der Spieler wieder am Zug, wenn er zwei Karten gleich(buttons)hat,
 danach habe ich ihn noch in Funktionen unterteilt, damit es übersichtlicher ist. Ich habe das Spielfeld so zentriert das es immer in der Mitte bleibt.
 
 ## 4.4: Auspolieren & Abschluss
@@ -69,7 +69,7 @@ danach habe ich ihn noch in Funktionen unterteilt, damit es übersichtlicher ist
 - [x]  Auswahl von 1 und 2 Spieler ändern,(mit Icons etc. ausprobieren)
 - [x]  Falls es noch etwas gibt zum erledigen
 
-✍️ Heute habe ich noch versucht, die Icons einzubauen, aber es hat nicht ganz funktioniert. Deshalb habe ich es erst einmal so gelassen wie vorher,
+Heute habe ich noch versucht, die Icons einzubauen, aber es hat nicht ganz funktioniert. Deshalb habe ich es erst einmal so gelassen wie vorher,
 nur habe ich die Buttons am Anfang nebeneinander statt untereinander angeordnet.
 
 ## Refelexion
