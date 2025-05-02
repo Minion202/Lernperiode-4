@@ -4,6 +4,29 @@
 
 14.2 bis 4.4
 
+
+## Refelexion
+
+Bei diesem Projekt habe ich zum ersten Mal mit Avalonia UI gearbeitet. Anfangs war das Ganze noch etwas unpraktisch und ungewohnt, da ich mir nicht vertraut war damit. Doch durch viele Tutorials, Videos und vor allem durch Ausprobieren bin ich gut vorangekommen. Wenn ich zurück schaue, bin ich sehr stolz darauf, was ich geschafft habe,besonders weil ich auf einem Mac arbeite und dadurch einige zusätzliche Herausforderungen hatte.
+
+Im Vergleich zu meinen Mitstudierenden, die alle auf Windows gearbeitet haben, musste ich deutlich mehr arbeiten. Denn während sie teilweise nur fertige Buttons auswählen und einfügen konnten, musste ich mein Spielfeld selbst gestalten. Trotzdem konnte ich mein Ziel erreichen, was mir ein gutes Gefühl gibt und mir gezeigt hat, wie viel ich in kurzer Zeit dazulernen kann. 
+
+Ausserdem hat es mir geholfen ein Mind-Map zuerstellen, da ich dann ein besseres Vorstellen meines Spiels hatte.
+
+## Fertiges Projekt 
+
+In meinem Spiel handelt es sich um ein Memory-Spiel, bei dem man im Startbildschirm zwischen zwei Spielmodi wählen kann: Einzelspieler (alleine) oder Mehrspieler (Gegeneinander).
+
+Einzelspieler-Modus:
+Der Spieler deckt nach und nach die Karten auf, bis alle Paare gefunden wurden. Nach Abschluss des Spiels kann man auf „Neustart“ klicken, um eine neue Runde beginnen.
+
+Mehrspieler-Modus:
+Zwei Spieler spielen abwechselnd. Zuerst ist Spieler 1 an der Reihe und darf zwei Karten aufdecken. Die Karten bleiben für ein paar Sekunden sichtbar, damit sich beide Spieler einprägen können, welche Karten gezeigt wurden.
+Falls die beiden Karten übereinstimmen, darf der Spieler nochmals zwei Karten aufdecken. Sobald jedoch ein Fehler gemacht wird, ist der nächste Spieler an der Reihe.
+So geht es weiter, bis alle Kartenpaare gefunden wurden. Anschliessend kann das Spiel durch klicken des „Neustart“-Buttons erneut gestartet werden.
+
+
+
 ## Grob-Planung
 
 1. Meine Noten in Informatik sind sehr gut, ich finde, dass ich bei der Netzwerkplannung zur Zeit sehr gut voran komme.
@@ -35,7 +58,7 @@ von AvaloniaUI ändern. Leider hatte ich keine Zeit mehr für das Design von den
 - [x] vierecke designen mit farben, damit ich Karten habe um meinen Code coden zu können
 - [x] randomizer für die Karten programmieren
 - [x] coden das, wenn man 2 gleiche Karten aufdeckt, sie aufgedeckt bleiben, bis man den Rest hat
-- [ ] anfang des Spiels programmieren, damit man wählen kann, ob man 1 Player ode 2 Player will 
+- [ ] anfang des Spiels programmieren, damit man wählen kann, ob man 1 Player oder 2 Player will 
 
 Heute habe ich alle Ziele die ich erreichen konnte leider nicht erreicht, aber ich habe karten gemacht die sich aufdecken lassen, wenn ich sie anklicke, ich ben sehr zufrieden mit dem Ergebnis
 und man kann langsam auch sehen, dass es ein Memory spiel wird.
@@ -71,12 +94,4 @@ danach habe ich ihn noch in Funktionen unterteilt, damit es übersichtlicher ist
 
 Heute habe ich noch versucht, die Icons einzubauen, aber es hat nicht ganz funktioniert. Deshalb habe ich es erst einmal so gelassen wie vorher,
 nur habe ich die Buttons am Anfang nebeneinander statt untereinander angeordnet.
-
-## Refelexion
-
-Bei diesem Projekt habe ich zum ersten Mal mit Avalonia UI gearbeitet. Anfangs war das Ganze noch etwas unpraktisch und ungewohnt, da ich mir nicht vertraut war damit. Doch durch viele Tutorials, Videos und vor allem durch Ausprobieren bin ich gut vorangekommen. Wenn ich zurück schaue, bin ich sehr stolz darauf, was ich geschafft habe,besonders weil ich auf einem Mac arbeite und dadurch einige zusätzliche Herausforderungen hatte.
-
-Im Vergleich zu meinen Mitstudierenden, die alle auf Windows gearbeitet haben, musste ich deutlich mehr arbeiten. Denn während sie teilweise nur fertige Buttons auswählen und einfügen konnten, musste ich mein Spielfeld selbst gestalten. Trotzdem konnte ich mein Ziel erreichen, was mir ein gutes Gefühl gibt und mir gezeigt hat, wie viel ich in kurzer Zeit dazulernen kann. 
-
-Ausserdem hat es mir geholfen ein Mind-Map zuerstellen, da ich dann ein besseres Vorstellen meines Spiels hatte.
 
