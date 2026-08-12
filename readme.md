@@ -1,4 +1,4 @@
-# Lern-Periode 4
+# Lern Periode 4
 ## Memory Game
 ![Memorygame](https://github.com/user-attachments/assets/c529a67e-5341-4899-8379-1586e3f168d3)
 
